@@ -1,2 +1,2 @@
-# cpp_plays_again
-Using c++ console games, to learn project themes and learning cpp more in depth as well.
+# cppGames
+Using c++ console games, to learn project themes and learning cpp and OOP more in depth as well.
